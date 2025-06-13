@@ -1,0 +1,2 @@
+E:/flutter/Agri_Track-mobile_app/android/app/.cxx/Debug/n5zt2w62/x86/CMakeFiles/edit_cache.dir
+E:/flutter/Agri_Track-mobile_app/android/app/.cxx/Debug/n5zt2w62/x86/CMakeFiles/rebuild_cache.dir

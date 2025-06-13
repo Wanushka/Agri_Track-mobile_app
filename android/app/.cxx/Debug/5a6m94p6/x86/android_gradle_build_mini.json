@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "C:\\flutter\\src\\flutter\\packages\\flutter_tools\\gradle\\src\\main\\groovy\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\ASUS\\AppData\\Local\\Android\\sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "E:\\Silverline IT\\Silverline_Project_2024_10\\bovitrack-mobile-final\\Bovi-Track-Mobile\\bovitrack\\android\\app\\.cxx\\Debug\\5a6m94p6\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\ASUS\\AppData\\Local\\Android\\sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "E:\\Silverline IT\\Silverline_Project_2024_10\\bovitrack-mobile-final\\Bovi-Track-Mobile\\bovitrack\\android\\app\\.cxx\\Debug\\5a6m94p6\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}

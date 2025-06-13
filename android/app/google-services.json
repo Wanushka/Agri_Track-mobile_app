@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "517695311427",
+    "project_id": "agri-track-d349a",
+    "storage_bucket": "agri-track-d349a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517695311427:android:25521afbe4d923debd0ef6",
+        "android_client_info": {
+          "package_name": "com.example.bovitrack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOdYDRTalLP-PGIn13bBi_Z437Nf9a2dA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,2 @@
+E:/SilverlineIT/Bovi-Track-Mobile/bovitrack/android/app/.cxx/RelWithDebInfo/6an6n3m5/arm64-v8a/CMakeFiles/edit_cache.dir
+E:/SilverlineIT/Bovi-Track-Mobile/bovitrack/android/app/.cxx/RelWithDebInfo/6an6n3m5/arm64-v8a/CMakeFiles/rebuild_cache.dir
